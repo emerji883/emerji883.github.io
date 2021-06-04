@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*
+
+
+
+.body
+{
+    background-color: white;
+}
+.dark-mode
+{
+    background-color: #3d3d3d;
+    color: white;
+}
+a:hover 
+{
+    font-family: 'Open-Sans', sans-serif;
+    color: black;
+    background: #2f32dd;
+    box-shadow: 0 0 10px #2f32dd, 0 0 40px #2f32dd, 0 0 80px #2f32dd;
+}
+.b
+{
+    padding: 100px;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center
+}
+.jbtn
+{
+    color: black;   
+    background-color:white;
+    border-radius: 24px;
+    margin-right: -90%;
+}
+.btn-dark-mode
+{
+   color: white;
+
+}
+.subby
+{
+    margin-top: 1%;
+}
+.styleuser
+{
+    border-radius: 24px;
+}
