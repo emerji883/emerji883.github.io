@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*
+
+body
+{
+    background-color: #000000;
+}
+.parent
+{
+    background-color: #000000;
+}
+
+a:link
+{
+    font-family: 'Open-Sans', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+a
+{
+    font-family: 'Open-Sans', sans-serif;
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: #2f32dd;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    border-radius: 24px;
+    transition: 0.2s;
+}
+a:visited
+{
+    color: white;
+    text-decoration: none;
+    font-family: 'Open-Sans', sans-serif;
+}
+a:hover 
+{
+    font-family: 'Open-Sans', sans-serif;
+    color: white;
+    background: #2f32dd;
+    box-shadow: 0 0 10px #2f32dd, 0 0 40px #2f32dd, 0 0 80px #2f32dd;
+}
+.head
+{
+
+    font-family: 'Open-Sans', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 108px;
+}
+.b
+{
+    margin-top: auto;
+    font-size: 45px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center
+}
+.header {
+    font-family: 'Open-Sans', sans-serif;
+	font-size: 6rem;
+	font-weight:  100;
+	letter-spacing: 2px;
+	text-align: center;
+    color: white;
+}
+.bodd
+{
+    text-align: center;
+    font-size: 45px;
+}
+.cob
+{
+    padding: 50px;
+    text-align: center;
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 55px;
+    color: white;
+}
+.profileimg
+{
+    margin: 0 auto;
+   
+}

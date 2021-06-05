@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*
+{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #333333;
+    color: white;
+}
+.body
+{
+    background-color: white;
+    color: white;
+}
+.dark-mode
+{
+    background-color: #3d3d3d;
+    color: white;
+}
+a:hover 
+{
+    font-family: 'Open-Sans', sans-serif;
+    color: black;
+    background: #2f32dd;
+    box-shadow: 0 0 10px #2f32dd, 0 0 40px #2f32dd, 0 0 80px #2f32dd;
+}
+
+.pfp
+{
+    margin-top: 5%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.pfn
+{
+    text-align: center;
+    color: white;
+}
+.usrn
+{
+    text-align: center;
+    font-style: italic;
+    opacity: 0.5;
+    color: white;
+}
+.usrp
+{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.lpost
+{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.btnProf
+{
+    font-size: large;
+    margin-bottom: -12%;
+    text-align: right;
+    text-decoration: none;
+    border-radius: 32px;
+    color: white;
+}
+.btnFriend
+{
+    font-size: large;
+    text-align: right;
+    padding-right: 70px;
+    color: white;
+    text-decoration: none;
+}
+.btnYProj
+{
+    font-size: large;
+    text-align: right;
+    padding-right: 70px;
+    margin-top: -510px;
+    text-decoration: none;
+}
+.btnSettings
+{
+    font-size: large;
+    text-align: right;
+    padding-right: 70px;
+    margin-top: -500px;
+    text-decoration: none;
+}
+a:link
+{
+    text-decoration: none;
+}

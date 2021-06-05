@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*
+{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #333333;
+    color: white;
+}
+.pname
+{
+    text-align: center;
+    font-size: 50px;
+}
+.pbio
+{
+    text-align: center;
+}
+.user
+{
+    margin-top: -50px;
+    font-size: 13px;
+    font-style: italic;
+    opacity: 63%;
+    color: black;
+}
+.btnProf
+{
+    font-size: large;
+    margin-bottom: -12%;
+    text-align: right;
+    text-decoration: none;
+    border-radius: 32px;
+    color: white;
+}
