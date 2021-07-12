@@ -110,19 +110,19 @@ body::before {
 .core-img-item.img-1 {
   width: 100%;
   height: 100%;
-  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-1.png") center/100% auto no-repeat;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/MonaLisa.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-2 {
   width: 100%;
   height: 100%;
-  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-2.png") center/100% auto no-repeat;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/starry_night_full.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-3 {
   width: 100%;
   height: 100%;
-  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-3.png") center/100% auto no-repeat;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/2178_500x500.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-4 {
@@ -284,4 +284,4 @@ a:link {
   text-decoration: none;
   color: black;
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style2.css.map */
