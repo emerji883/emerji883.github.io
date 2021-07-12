@@ -65,7 +65,6 @@ body {
   }
 }
 .logo {
-  @include imageCDN("garena-logo.png", 2.9rem, 0.87rem);
   transform: scale(0.6);
   position: absolute;
   top: 0;
@@ -188,10 +187,8 @@ body {
     transform: scale(0.7);
   }
   &.prev:before {
-    @include imageCDN("icon-page-prev-white.png", 0.2rem, 0.36rem);
   }
   &.next:before {
-    @include imageCDN("icon-page-next-white.png", 0.2rem, 0.36rem);
   }
 }
 
