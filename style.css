@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
-* 
-{
+* {
   margin: 0 auto;
   padding: 0;
   -webkit-box-sizing: border-box;
@@ -66,11 +65,13 @@ body::before {
   height: 100%;
   top: 0;
   left: 0;
+  background: url("https://images.unsplash.com/photo-1527229126017-21af67bd4b27?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyNTY2NzIzNg&ixlib=rb-1.2.1&q=85") center top/cover no-repeat;
 }
 
 .logo {
   width: 2.9rem;
   height: 0.87rem;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/garena-logo.png") center/100% auto no-repeat;
   -webkit-transform: scale(0.6);
           transform: scale(0.6);
   position: absolute;
@@ -109,29 +110,31 @@ body::before {
 .core-img-item.img-1 {
   width: 100%;
   height: 100%;
-  background: url("MonaLisa.png") center/100% auto no-repeat;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-1.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-2 {
   width: 100%;
   height: 100%;
-  background: url("starry_night_full.png") center/100% auto no-repeat;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-2.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-3 {
   width: 100%;
   height: 100%;
-  background: url("2178_500x500.png") center/100% auto no-repeat;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-3.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-4 {
   width: 100%;
   height: 100%;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-4.png") center/100% auto no-repeat;
 }
 
 .core-img-item.img-5 {
   width: 100%;
   height: 100%;
+  background: url("https://dlgarenanow-a.akamaihd.net/careers/garena/assets/about-value-5.png") center/100% auto no-repeat;
 }
 
 .trigger-area {
