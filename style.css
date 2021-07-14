@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
 * 
 {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   background-color: #000000;
  
@@ -67,7 +67,12 @@
 a:link 
 {
   text-decoration: none;
-  color: black;
+  color: white;
+}
+a:visited
+{
+  text-decoration: none;
+  color: white;
 }
 .carousel {
   width: 880px;
@@ -258,4 +263,5 @@ a.ep_title{ text-decoration: none; }
     height: auto;
   }
 }
+
 
