@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* 
+{
+  margin: 0 auto;
+  padding: 0;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  height: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+.menu 
+{
+  text-align: center;
+  font-size: 22px;
+  padding: 0px;
+  word-spacing: 2px;
+  color: blue;
+}
+.signup
+{
+  text-align: center;
+  font-size: 30px;
+  padding: 35px;
+}
+.consumer
+{
+  text-align: center;
+  font-size: 22px;
+}
+.con
+{
+  background-color: #000000;
+  border: none;
+  color: white;
+  border-radius: 30px;
+  padding: 9px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+a:link
+{
+  text-decoration: none;
+  color: black;
+}
