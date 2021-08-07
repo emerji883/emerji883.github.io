@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #bd4f6c;
+   text-align: center;
+    font-family: 'Open-Sans', sans-serif;
+}
+
+.app-wrap
+{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 100px;
+}
+.header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 50px 15px 15px;
+}
+header input
+{
+    width: 100%;
+    max-width: 280px;
+    padding: 10px 15px;
+    margin-bottom: 2em;
+    border: none;
+    outline: none;
+    background-color: #FFFFFF;
+    color: #313131;
+    border-radius: 16px 2px 16px 10px;
+    border-bottom: 15px solid #000000 0.9;
+    font-size: 20px;
+    font-weight: 300;
+    transition: 0.2s ease-out;
+}
+header input:focus
+{
+    background-color: #FFFFFF 0.6;
+}
+.main
+{
+    flex: 1 1 100%;
+    padding: 25px 25px 50px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    text-align: center;
+}
+.location .city
+{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.location .date
+{
+    color: #ffffff;
+    font-size: 16px;
+}
+.current .temp
+{
+    color: #FFFFFF;
+    font-size: 66px;
+    margin: 10px 0px;
+}
+.current .temp span
+{
+    font-weight: 300;
+}
+.current .weather
+{
+    color: #FFFFFF;
+    font-size: 22px;
+}
+.current .hi-low
+{
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 10px;
+}
